@@ -90,7 +90,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="ʟᴏɢꜱ", url=f"https://t.me/laylalogs"),
+        InlineKeyboardButton(text="ʟᴏɢꜱ", url=f"https://t.me/KGF_GBAN_LOGS"),
         InlineKeyboardButton(
             text="ꜰᴇᴅᴇʀᴀᴛɪᴏɴ", url=f"https://t.me/KGF_FED/78"
         ),
